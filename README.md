@@ -1,2 +1,2 @@
 # nature
-modeling the real world 
+modeling natures logic
